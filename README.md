@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jonás</h1>
-<h3 align="center">Desarrollador web por pasión a crear productos útiles</h3>
+<h3 align="center">Desarrollador web, pasión por crear productos útiles</h3>
 <h3 align="center">Autodidacta, lo llevo en el código</h3>
 
 <h3 align="left">Connect with me:</h3>
