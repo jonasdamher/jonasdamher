@@ -2,8 +2,6 @@
 <h3 align="center">Desarrollador web por pasión a crear productos útiles</h3>
 <h3 align="center">Autodidacta, lo llevo en el código</h3>
 
-<img align="center" src="https://tenor.com/es/ver/dancing-stick-man-gif-15361656" alt="jonasdamher" />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jonasdamher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonasdamher" height="30" width="40" /></a>
