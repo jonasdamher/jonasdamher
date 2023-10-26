@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/jonasdamher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonasdamher" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jonasdamher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonasdamher" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/161975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="161975" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12206815/jonasdamher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="161975" height="30" width="40" /></a>
 <a href="https://dribbble.com/jonasdamher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jonasdamher" height="30" width="40" /></a>
 </p>
 
